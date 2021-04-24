@@ -1,3 +1,3 @@
-C # ile kodlanmış kütüphane sistemi. 
-Kullanıcı kayıt, silme, değiştirme işlemleri.
-Kitap ekleme, silme, verme işlemleri.
+# Library system encoded in C #.
+# User registration, deletion, change operations.
+# Book adding, deleting, exporting processes. 
